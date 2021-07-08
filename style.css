@@ -1,0 +1,334 @@
+*{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    width: 100%;
+    height: 100%;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+div.navbar{
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background-color: #0e2e88;
+}
+
+.navbar h1{
+    left: 7.39%;
+    right: 73.98%;
+    top: 32.5%;
+    bottom: 31.25%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 29px;
+
+    color: #ecf022;
+}
+
+.navbar a{
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #f0f0ecf5;
+}
+
+.apresentacao{
+    width: 100%;
+    height: 460px;
+    left: 0px;
+    top: 80px;
+    background-color: #796de6;
+}
+
+.apresentacao img{
+    height: 100%;
+    width: auto;
+    left: 180px;
+    top: auto;
+    border-radius: 0px;
+}
+
+.apresentacao article{
+    left: 47.89%;
+    right: 7.98%;
+    top: 33.91%;
+    bottom: 40.22%;
+}
+
+.apresentacao h1{
+    left: 0%;
+    top: 0%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #050527;
+}
+
+.apresentacao h2{
+    left: 0%;
+    top: 18.49%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #fffb00;
+
+}
+
+.apresentacao p{
+    left: 0%;
+    top: 49.58%;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+
+
+    color: #ddda20;
+}
+
+.portfolio{
+    width: 100%;
+    height: 460px;
+    left: 0px;
+    top: 540px;
+    background-color: #FFFFFF;
+}
+
+.portfolio h1{
+    left: 40.95%;
+    top: 10.22%;
+    bottom: 83.48%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.portfolio h2{
+    left: 32.82%;
+    right: 32.74%;
+    top: 16.96%;
+    bottom: 73.48%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #000000;
+}
+
+a.containerGit{
+    left: 18.26%;
+    right: 63.27%;
+    top: 34.13%;
+    bottom: 11.52%;
+
+    background: #F1F1F1;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+a.containerGit:hover{
+    background: #DEDEDE;
+}
+
+.containerGit img{
+    width: 151px;
+    height: 85px;
+    left: 19.6%;
+    right: 20%;
+    top: 14.4%;
+    bottom: 51.6%;
+}
+
+.containerGit h1{
+    left: 35.6%;
+    right: 36%;
+    top: 56%;
+    bottom: 32.4%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.containerGit h2{
+    left: 21.2%;
+    right: 21.2%;
+    top: 67.6%;
+    bottom: 14.8%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #000000;
+}
+
+a.containerUnnamed{
+    left: 40.8%;
+    right: 40.72%;
+    top: 34.13%;
+    bottom: 11.52%;
+
+    background: #FF3A3A;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+a.containerUnnamed:hover{
+    background: #E13A3A;
+}
+
+.containerUnnamed h1{
+    left: 19.2%;
+    right: 19.6%;
+    top: 38.4%;
+    bottom: 38.4%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+a.containerUnnamed2{
+    left: 63.34%;
+    right: 18.18%;
+    top: 34.13%;
+    bottom: 11.52%;
+
+    background: #FF3A3A;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+a.containerUnnamed2:hover{
+    background: #E13A3A;
+}
+
+.containerUnnamed2 h1{
+    left: 19.2%;
+    right: 19.6%;
+    top: 38.4%;
+    bottom: 38.4%;
+
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
+
+div.contato{
+    width: 100%;
+    height: 460px;
+    left: 0px;
+    top: 1000px;
+
+    background-color: #220BF1;
+}
+
+.contato img{
+    width: 349px;
+    height: 344px;
+    left: 4.29%;
+    right: 69.92%;
+    top: 25.22%;
+    bottom: 0%;
+}
+
+.contato h1{
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.contato h2{
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.containerContato{
+    left: 37.18%;
+    right: 37.18%;
+    top: 39.13%;
+    bottom: 42.39%;
+
+    background: #FFEC42;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+a.containerContato:hover{
+    background: #CAB815;
+}
+
+.containerContato h3{
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #000000;
+}
